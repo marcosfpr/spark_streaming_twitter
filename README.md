@@ -36,8 +36,9 @@ BEARER=<bearer>
 ```
 
 ## Links legais sobre Spark Streaming:
-[Near Real Time Recommendations](https://databricks.com/session/near-real-time-netflix-recommendations-using-apache-spark-streaming)
-[Near Real Time Recommendations](https://sparkhub.databricks.com/video/spark-and-spark-streaming-at-netflix/)
+[Near Real Time Recommendations](https://databricks.com/session/near-real-time-netflix-recommendations-using-apache-spark-streaming) 
+
+[Spark Streaming na Netflix](https://sparkhub.databricks.com/video/spark-and-spark-streaming-at-netflix/)
 
 ## Dúvidas?
 ### Escreva uma Issue, mande um PR ;)
